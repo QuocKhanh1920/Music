@@ -81,8 +81,8 @@ const app = {
         {
             name: 'Đây Là Việt Nam',
             singer: 'Rhymastic, Blacka',
-            path: './assets/music/Đây là Việt Nam.mp3',
-            image: './assets/image/Đây là Việt Nam.jpg'
+            path: './assets/music/Đây Là Việt Nam.mp3',
+            image: './assets/image/Đây Là Việt Nam.jpg'
         },
 
         {
